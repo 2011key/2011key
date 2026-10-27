@@ -48,7 +48,6 @@
 - full-stack development (lemp and python)
 - front end development (html, css, javascript)
 - seo
-- web security (sidequest)
 
 </td>
 
