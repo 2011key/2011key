@@ -1,6 +1,3 @@
-<a href="#profile">profile</a>　✧　<a href="#the-gallery">gallery</a>　✧　<a href="#the-workshop">workshop</a>　✧　<a href="#currently">currently</a>　✧　<a href="#guestbook">guestbook</a>
-</div>
-
 <table>
 <tr>
 <td width="34%" valign="top">
@@ -211,12 +208,3 @@ little reminders
 </td>
 </tr>
 </table>
-
-
-
-<sub>if something here made you pause, the guestbook is open.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E5E1E7,B9C8D3,CFD9E0,E9E8E8&height=110&section=footer" width="100%" alt="Soft grey and icy blue wave footer"/>
-
-<sub>© YOUR NAME · lovingly assembled in the corner of the internet</sub>
-</div>
