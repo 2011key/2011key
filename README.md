@@ -6,9 +6,7 @@
 
 <img src="https://github.com/2011key/2011key/blob/main/lain1.jpg"/>
 
-
-✧ the little card
-key
+<p>key</p>
 <sub>2011 | high school student</sub>
 
 
