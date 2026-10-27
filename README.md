@@ -1,4 +1,5 @@
-<img src="https://github.com/2011key/2011key/blob/main/topdiv.jpg" style="width: 50%; height: auto; object-fit: cover;">
+<img src="https://github.com/2011key/2011key/blob/main/top.jpg" style="width: 50%; height: auto; object-fit: cover;"><img src="https://github.com/2011key/2011key/blob/main/top.jpg" style="width: 50%; height: auto; object-fit: cover;">
+
 
 <table width="100%">
 <tr>
