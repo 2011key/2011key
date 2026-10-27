@@ -1,14 +1,3 @@
-<div align="center">
-
-
-
-<img src="https://img.shields.io/badge/✦-personal%20archive-dfe4e8?style=flat-square&labelColor=f4f3f3&color=dfe4e8" alt="personal archive badge"/>
-<img src="https://img.shields.io/badge/status-under%20construction-e8e3e8?style=flat-square&labelColor=f4f3f3&color=e8e3e8" alt="under construction badge"/>
-<img src="https://img.shields.io/badge/last%20updated-whenever-b9c8d3?style=flat-square&labelColor=f4f3f3&color=b9c8d3" alt="last updated badge"/>
-
-
-
-
 <a href="#profile">profile</a>　✧　<a href="#the-gallery">gallery</a>　✧　<a href="#the-workshop">workshop</a>　✧　<a href="#currently">currently</a>　✧　<a href="#guestbook">guestbook</a>
 </div>
 
