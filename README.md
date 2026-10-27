@@ -60,7 +60,7 @@
 <td width="20%" valign="middle" align="center">
 
 <img src="https://github.com/2011key/2011key/blob/main/lain2.jpg" width="100%" alt="lain2"/>
-<img src="https://github.com/2011key/2011key/blob/main/sun.jpg" width="100%" alt="lain2"/>
+<img src="https://github.com/2011key/2011key/blob/main/ivantill.jpg" width="100%" alt="lain2"/>
 
 </td>
 
