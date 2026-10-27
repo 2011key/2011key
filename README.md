@@ -10,6 +10,8 @@
 <sub>2011 | high school student</sub>
 </div>
 
+<img src="https://github.com/2011key/2011key/blob/main/lain2.jpg"/>
+
 </td>
 <td width="66%" valign="top">
 
