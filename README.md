@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E9E8E8,CFD9E0,B9C8D3,E5E1E7&height=180&section=header&text=your%20little%20corner&fontSize=35&fontColor=53565D&fontAlignY=38&desc=an%20archive%20of%20things%20i%20make&descAlignY=59&descSize=13" width="100%" alt="Soft grey and icy blue wave header"/>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=3200&pause=1100&color=777E88&center=true&vCenter=true&width=520&lines=welcome+to+my+little+internet+room+%E2%9C%A7;made+slowly%2C+with+care;please+look+around+%E2%99%A1" alt="A slowly typing welcome message"/>
 
 
 <img src="https://img.shields.io/badge/✦-personal%20archive-dfe4e8?style=flat-square&labelColor=f4f3f3&color=dfe4e8" alt="personal archive badge"/>
@@ -226,16 +222,6 @@ little reminders
 </td>
 </tr>
 </table>
-
-
-<a id="guestbook"></a>
-04 / leave a little note
-<div align="center">
-
-<a href="https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/issues/new?title=hello%20from%20the%20guestbook&body=hi%20there%20%E2%9C%A7">
-<img src="https://img.shields.io/badge/open%20the%20guestbook-leave%20a%20note-d7e1e7?style=for-the-badge&labelColor=f1eeee&color=d7e1e7" alt="Open the guestbook and leave a note"/>
-</a>
-
 
 
 
