@@ -29,23 +29,23 @@
 
 <td width="50%" valign="top">
 
-<b>♡ likes</b>
+<b>♡ languages</b>
 
-- cold mornings
-- strange little websites
-- pretty interfaces
-- making things
+- python
+- html
+- css
+- javascript
 
 </td>
 
 <td width="50%" valign="top">
 
-<b>☁ dislikes</b>
+<b>♡ strengths</b>
 
-- unnecessary noise
-- unfinished tabs
-- harsh colours
-- boring defaults
+- full-stack development (lemp and python)
+- front end development (html, css, javascript)
+- seo
+- web security (sidequest)
 
 </td>
 
