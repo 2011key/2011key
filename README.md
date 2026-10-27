@@ -22,7 +22,7 @@
 
 <h3>𝓦elcome and hello .</h3>
 
-<p>i'm a static site developer and beginner dynamic software dev</p>
+<p>i'm a static site developer and beginner dynamic software dev.</p>
 
 <table width="100%">
 <tr>
