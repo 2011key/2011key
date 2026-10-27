@@ -20,7 +20,7 @@
 
 <a id="profile"></a>
 
-<h3>hello, stranger. ✦</h3>
+<h3>𝓦elcome and hello .</h3>
 
 A small introduction goes here. Keep it personal, brief, and a little mysterious.
 
