@@ -51,9 +51,6 @@
 
 </tr>
 </table>
-
-<sub>currently learning: thing one · thing two · thing three</sub>
-
 </td>
 
 <!-- RIGHT: LAIN 2, OUTSIDE THE INNER TABLE -->
