@@ -53,7 +53,7 @@
 </table>
 </td>
 
-<!-- RIGHT: LAIN 2, OUTSIDE THE INNER TABLE -->
+<!-- RIGHT: LAIN 2 -->
 <td width="20%" valign="middle" align="center">
 
 <img src="https://github.com/2011key/2011key/blob/main/lain2.jpg" width="100%" alt="lain2"/>
@@ -64,14 +64,14 @@
 </tr>
 </table>
 
-<!-- PROJECT ARCHIVE -->
+<!-- CENTER: PROJECTS -->
 <div align="center">
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E6&height=2&section=header" width="100%" alt="Thin grey divider"/>
 
-<h3>𝓣he projects</h3>h3>
+<h3>𝓣he projects</h3>
 <sub>the stuff i've made so far</sub>
 
 <br/><br/>
@@ -140,7 +140,7 @@
 <td align="center" valign="middle">
 
 <h3>02</h3>
-<sub>☾</sub>
+<sub>✧</sub>
 
 </td>
 <td valign="top">
@@ -178,7 +178,7 @@
 <td align="center" valign="middle">
 
 <h3>03</h3>
-<sub>❄</sub>
+<sub>✧</sub>
 
 </td>
 <td valign="top">
@@ -216,7 +216,7 @@
 <td align="center" valign="middle">
 
 <h3>04</h3>
-<sub>✦</sub>
+<sub>✧</sub>
 
 </td>
 <td valign="top">
