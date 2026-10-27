@@ -22,7 +22,7 @@
 
 <h3>𝓦elcome and hello .</h3>
 
-A small introduction goes here. Keep it personal, brief, and a little mysterious.
+<p>i'm a static site developer and beginner dynamic software dev</p>
 
 <table width="100%">
 <tr>
