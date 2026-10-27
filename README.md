@@ -1,6 +1,8 @@
-<table>
+<table width="100%">
 <tr>
-<td width="34%" valign="top">
+
+<!-- LEFT: PROFILE -->
+<td width="32%" valign="top">
 
 <div align="center">
 
@@ -12,7 +14,9 @@
 </div>
 
 </td>
-<td width="66%" valign="top">
+
+<!-- MIDDLE: INTRODUCTION AND LIKES/DISLIKES -->
+<td width="48%" valign="top">
 
 <a id="profile"></a>
 
@@ -20,10 +24,10 @@
 
 A small introduction goes here. Keep it personal, brief, and a little mysterious.
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
 <b>♡ likes</b>
 
@@ -32,7 +36,9 @@ A small introduction goes here. Keep it personal, brief, and a little mysterious
 - pretty interfaces
 - making things
 
-<hr/>
+</td>
+
+<td width="50%" valign="top">
 
 <b>☁ dislikes</b>
 
@@ -43,18 +49,20 @@ A small introduction goes here. Keep it personal, brief, and a little mysterious
 
 </td>
 
-<td width="35%" valign="middle" align="center">
-
-<img src="https://github.com/2011key/2011key/blob/main/lain2.jpg" width="100%" alt="lain2"/>
-
-</td>
-
 </tr>
 </table>
 
 <sub>currently learning: thing one · thing two · thing three</sub>
 
 </td>
+
+<!-- RIGHT: LAIN 2, OUTSIDE THE INNER TABLE -->
+<td width="20%" valign="middle" align="center">
+
+<img src="https://github.com/2011key/2011key/blob/main/lain2.jpg" width="100%" alt="lain2"/>
+
+</td>
+
 </tr>
 </table>
 
