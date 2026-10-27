@@ -8,10 +8,8 @@
 
 
 ✧ the little card
-YOUR NAME
-<sub>maker of small things · collector of details</sub>
-<img src="https://img.shields.io/badge/pronouns-your%20pronouns-e9e6e8?style=flat-square" alt="pronouns badge"/>
-<img src="https://img.shields.io/badge/location-somewhere%20online-dce5e9?style=flat-square" alt="location badge"/>
+key
+<sub>2011 | high school student</sub>
 
 
 <sub>❝ a quiet place for unfinished ideas ❞</sub>
