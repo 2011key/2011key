@@ -64,11 +64,6 @@
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E6&height=2&section=header" width="100%" alt="Thin grey divider"/>
-</div>
-
 <!-- PROJECT ARCHIVE -->
 <div align="center">
 
@@ -76,8 +71,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E6&height=2&section=header" width="100%" alt="Thin grey divider"/>
 
-<h2>𝓣he project archive</h2>
-<sub>a collection of little things, carefully assembled</sub>
+<h3>𝓣he projects</h3>h3>
+<sub>the stuff i've made so far</sub>
 
 <br/><br/>
 
