@@ -70,9 +70,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E6&height=2&section=header" width="100%" alt="Thin grey divider"/>
-
-<sub>thank you for visiting...</sub>
-
 </div>
 
 <!-- PROJECT ARCHIVE -->
@@ -264,10 +261,6 @@
 
 <sub>─────────────────── ✧ ───────────────────</sub>
 
-<br/><br/>
-
-<sub>04 projects archived · more scattered across the internet</sub>
-
-<br/><br/>
+<sub>thank you for visiting...</sub>
 
 </div>
