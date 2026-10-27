@@ -8,9 +8,6 @@
 
 <p>key</p>
 <sub>2011 | high school student</sub>
-
-
-<sub>❝ a quiet place for unfinished ideas ❞</sub>
 </div>
 
 </td>
